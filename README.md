@@ -1,7 +1,7 @@
 # PicVentures
 This repo contains assembly &amp; C/C++ projects for my pic microcontroller adventures!
 
-## resources/tutorials used in my adventures
+## resources/tutorials used for my adventures
 - test
 
 ## Microcontrollers:
